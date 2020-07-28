@@ -8,6 +8,8 @@ function Menu() {
             <a href="/">
             <img className="Logo" src={Logo} alt="AluraFlix - Imersão React Alura"/>
             </a>
+
+            <a className="ButtonLink" href="/"> Novo vídeo</a>
         </nav>
     );
 
